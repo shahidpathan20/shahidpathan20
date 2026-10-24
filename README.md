@@ -12,7 +12,6 @@
 
 ![status](https://img.shields.io/badge/status-learning-00ff41?style=flat-square&labelColor=0d1117)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-Cyber%20Security%20101-00ff41?style=flat-square&logo=tryhackme&logoColor=00ff41&labelColor=0d1117)
-![IGNOU](https://img.shields.io/badge/BCA-IGNOU-00ff41?style=flat-square&labelColor=0d1117)
 
 </div>
 
