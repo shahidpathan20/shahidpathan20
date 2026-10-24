@@ -8,65 +8,102 @@
 |_|\_\\___/|_| \_\\___/_/\_\/_/   \_\____/ |_/_/   \_\
 ```
 
-### `> BCA Cyber Security student | building skills in public`
+### Shahid Pathan (KUROXASTA)
+**Cybersecurity student | Aspiring security professional | Learning in public**
 
 ![status](https://img.shields.io/badge/status-learning-00ff41?style=flat-square&labelColor=0d1117)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-Cyber%20Security%20101-00ff41?style=flat-square&logo=tryhackme&logoColor=00ff41&labelColor=0d1117)
 
 </div>
 
-```console
-kuroxasta@kali:~$ whoami
-Shahid Pathan, student, Bangalore
+---
 
-kuroxasta@kali:~$ cat goal.txt
-Entry-level cybersecurity role. Proof first, claims second.
+## About Me
 
-kuroxasta@kali:~$ cat rules.txt
-1. If I say I know it, there is a note or a lab to back it up.
-2. Learning topics are marked as learning, not as mastered.
-3. Only test systems I'm allowed to test.
+I'm a BCA Cyber Security student based in Bangalore, studying remotely through IGNOU. I'm passionate about cybersecurity, ethical hacking, networking, Linux, security tools, and understanding how computer systems actually work.
+
+I prefer a practical approach over theory alone. I build my foundation through hands-on labs on TryHackMe, practice exercises, technical documentation, and regular revision, and I'm documenting the journey here on GitHub.
+
+I'm still a student and I don't claim to be an expert. The goal is a strong foundation, steady improvement, and real proof of progress through notes, scripts, and projects.
+
+**What I'm aiming for:** the practical knowledge needed for cybersecurity internships and entry-level opportunities.
+
+---
+
+## Skills and Knowledge
+
+These are developing skills built through labs and practice, not claims of professional-level experience.
+
+| Area | What I've covered |
+|------|-------------------|
+| **Networking** | TCP/IP and IP addressing, TCP and UDP, DNS, DHCP, ARP, NAT, HTTP and HTTPS |
+| **Operating Systems** | Kali Linux fundamentals, Windows fundamentals, Linux command-line basics, basic system navigation and administration |
+| **Packet Analysis** | Packet capture and analysis basics with Wireshark and tcpdump |
+| **Scanning and Recon** | Nmap fundamentals, port discovery, common scan options, basic reconnaissance concepts |
+| **Scripting** | Python fundamentals (currently learning), PowerShell basics through TryHackMe |
+| **Web Security** | Beginner-level concepts and common web technologies |
+| **Directory Services** | Active Directory fundamentals, Organizational Units, Group Policy Objects, introductory Kerberos |
+
+---
+
+## Learning Path
+
+| Course | Status |
+|--------|--------|
+| TryHackMe: Pre Security | Completed, 15 June 2026 |
+| TryHackMe: Cyber Security 101 | In progress |
+
+### Certificate
+
+**TryHackMe Pre Security Learning Path**
+- Completed: 15 June 2026
+- Course duration: 19 hours 10 minutes
+- [View certificate image](certificates/tryhackme-pre-security.png)
+
+This is a learning-path completion certificate, not a professional certification.
+
+---
+
+## Current Goals
+
+- Complete TryHackMe Cyber Security 101
+- Revise and strengthen everything I've learned so far
+- Improve networking and operating system fundamentals
+- Practice Wireshark, tcpdump, and Nmap regularly
+- Build stronger Python and PowerShell scripting skills
+- Improve practical reconnaissance and security analysis skills
+- Learn cryptography: hashing, symmetric encryption, and public-key cryptography
+- Document my learning through GitHub repositories
+- Build an online cybersecurity portfolio
+
+---
+
+## How I Learn
+
+```
+learn  ->  practice  ->  document  ->  revise  ->  build
 ```
 
-## `$ ls skills/`
+I learn step by step, practice what I learn, write it down, and come back to concepts until I understand them properly. I only mark something as learned when I can explain it.
 
-| Area | Where I am | Proof |
-|------|-----------|-------|
-| Networking | Revising: TCP/IP, DNS, DHCP, ARP, NAT, HTTP(S) | [notes](https://github.com/shahidpathan20/cybersecurity-learning-log/tree/main/networking) |
-| Linux / Kali | Learning: command-line basics | [notes](https://github.com/shahidpathan20/cybersecurity-learning-log/tree/main/linux) |
-| Nmap | Learning: host discovery, common scans | [notes](https://github.com/shahidpathan20/cybersecurity-learning-log/tree/main/nmap) |
-| Wireshark / tcpdump | Learning: basic capture and filters | [wireshark](https://github.com/shahidpathan20/cybersecurity-learning-log/tree/main/wireshark), [tcpdump](https://github.com/shahidpathan20/cybersecurity-learning-log/tree/main/tcpdump) |
-| Python | Learning: fundamentals | [scripts](https://github.com/shahidpathan20/cybersecurity-learning-log/tree/main/python) |
-| Active Directory | Fundamentals: OUs, GPOs, Kerberos basics | notes coming |
-| Cryptography | Not started | [plan](https://github.com/shahidpathan20/cybersecurity-learning-log/tree/main/cryptography) |
+---
 
-The Proof column fills in as I write notes. A dash or "coming" means I haven't documented it yet.
-
-## `$ cat certificates.log`
-
-| Certificate | Date | Proof |
-|-------------|------|-------|
-| TryHackMe Pre Security Learning Path | 15 June 2026 | [view](https://github.com/shahidpathan20/cybersecurity-learning-log/tree/main/certificates) |
-
-A learning-path completion certificate, not a professional certification.
-
-## `$ ./now.sh`
+## Roadmap
 
 ```
 [x] TryHackMe Pre Security
 [~] TryHackMe Cyber Security 101
 [~] Python fundamentals
-[ ] Write real notes for each topic above
-[ ] Cryptography
+[ ] Public learning-log repository with my notes and labs
 [ ] First small Python security script
+[ ] Cryptography fundamentals
+[ ] Portfolio website
 ```
 
-## `$ find . -name "log"`
-
-My notes and labs live here: **[cybersecurity-learning-log](https://github.com/shahidpathan20/cybersecurity-learning-log)**
+---
 
 <div align="center">
 
-`[ connection established ] keep learning. keep documenting.`
+`[ connection established ]  keep learning. keep documenting.`
 
 </div>
