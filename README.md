@@ -20,7 +20,7 @@
 
 ## About Me
 
-I'm a BCA Cyber Security student based in Bangalore, studying remotely through IGNOU. I'm passionate about cybersecurity, ethical hacking, networking, Linux, security tools, and understanding how computer systems actually work.
+I'm a BCA Cyber Security student. I'm passionate about cybersecurity, ethical hacking, networking, Linux, security tools, and understanding how computer systems actually work.
 
 I prefer a practical approach over theory alone. I build my foundation through hands-on labs on TryHackMe, practice exercises, technical documentation, and regular revision, and I'm documenting the journey here on GitHub.
 
