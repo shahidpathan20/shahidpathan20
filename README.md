@@ -11,9 +11,6 @@
 ### Shahid Pathan (KUROXASTA)
 **Cybersecurity student | Aspiring security professional | Learning in public**
 
-![status](https://img.shields.io/badge/status-learning-00ff41?style=flat-square&labelColor=0d1117)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Cyber%20Security%20101-00ff41?style=flat-square&logo=tryhackme&logoColor=00ff41&labelColor=0d1117)
-
 </div>
 
 ---
@@ -78,31 +75,36 @@ This is a learning-path completion certificate, not a professional certification
 
 ---
 
-## How I Learn
+## My Learning Loop
 
+```console
+kuroxasta@kali:~$ while true; do
+>   learn    # pick one concept, no skipping ahead
+>   break    # run it in a lab, then change things until it fails
+>   fix      # work out why it failed
+>   write    # explain it in my own words
+>   repeat   # come back later and test myself
+> done
 ```
-learn  ->  practice  ->  document  ->  revise  ->  build
-```
 
-I learn step by step, practice what I learn, write it down, and come back to concepts until I understand them properly. I only mark something as learned when I can explain it.
+| Step | What it means for me |
+|------|----------------------|
+| **Learn** | One concept at a time, until I know what it does and why it exists |
+| **Break** | Try it in a safe lab, then push it until it breaks |
+| **Fix** | Find out why it broke, because that's where the real learning is |
+| **Write** | If I can't explain it in my own words, I haven't learned it yet |
+| **Repeat** | Revisit old topics so they stay with me |
 
----
-
-## Roadmap
-
-```
-[x] TryHackMe Pre Security
-[~] TryHackMe Cyber Security 101
-[~] Python fundamentals
-[ ] Public learning-log repository with my notes and labs
-[ ] First small Python security script
-[ ] Cryptography fundamentals
-[ ] Portfolio website
-```
+Mistakes are part of the process. Every failed lab teaches me something a perfect run never would.
 
 ---
 
 <div align="center">
+
+```
+"I won't give up. Never giving up is my magic."
+                              - Asta, Black Clover
+```
 
 `[ connection established ]  keep learning. keep documenting.`
 
