@@ -11,6 +11,9 @@
 ### Shahid Pathan (KUROXASTA)
 **Cybersecurity student | Aspiring security professional | Learning in public**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-shahidpathan20.github.io-00ff41?style=for-the-badge&labelColor=0d1117)](https://shahidpathan20.github.io)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-KUROXASTA-00ff41?style=for-the-badge&logo=tryhackme&logoColor=00ff41&labelColor=0d1117)](https://tryhackme.com/p/KUROXASTA)
+
 </div>
 
 ---
