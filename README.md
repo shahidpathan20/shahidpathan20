@@ -11,11 +11,7 @@
 ### Shahid Pathan (KUROXASTA)
 **Cybersecurity student | Aspiring security professional | Learning in public**
 
-<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=600&lines=Aspiring+SOC+Analyst;Cybersecurity+Learner;Learning+Defensive+Security;Building+KUROXASTA)](https://git.io/typing-svg)
-
-</div>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&labelColor=003b13&color=0d1117)](https://shahidpathan20.github.io) [![TryHackMe](https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=00ff41&labelColor=003b13)](https://tryhackme.com/p/KUROXASTA) [![Learning%20Journey](https://img.shields.io/badge/Learning%20Journey-0d1117?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=003b13)](https://github.com/shahidpathan20/KUROXASTA-Cybersecurity-Journey)
 
