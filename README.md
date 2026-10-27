@@ -76,19 +76,6 @@ I'm building these skills through coursework, TryHackMe labs, and personal pract
 
 *Icons represent technologies I've studied or am learning, not professional-level expertise.*
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahidpathan20&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41)
-
-</div>
-
-*GitHub statistics are generated from activity in public repositories and may take time to refresh.*
-
----
 
 ## Learning Path
 
