@@ -58,26 +58,23 @@ These are developing skills built through labs and practice, not claims of profe
 
 ## Languages and Tools
 
-These are tools and technologies I've studied or am currently learning. My experience is still developing.
+I'm building these skills through coursework, TryHackMe labs, and personal practice. Labels below reflect my current learning level.
 
 <div align="center">
 
-**Languages and scripting**
+### Languages, scripting, and systems
 
-![Python](https://img.shields.io/badge/Python-learning-0d1117?style=for-the-badge&logo=python&logoColor=00ff41&labelColor=003b13)
-![PowerShell](https://img.shields.io/badge/PowerShell-basics-0d1117?style=for-the-badge&logo=powershell&logoColor=00ff41&labelColor=003b13)
-![Linux CLI](https://img.shields.io/badge/Linux_CLI-fundamentals-0d1117?style=for-the-badge&logo=linux&logoColor=00ff41&labelColor=003b13)
+[![Skills icons](https://skillicons.dev/icons?i=python,powershell,linux,windows,kali,git,github&theme=dark)](https://skillicons.dev)
 
-**Security and system tools**
+### Cybersecurity tools
 
-![Wireshark](https://img.shields.io/badge/Wireshark-basics-0d1117?style=for-the-badge&logo=wireshark&logoColor=00ff41&labelColor=003b13)
-![tcpdump](https://img.shields.io/badge/tcpdump-basics-0d1117?style=for-the-badge&logo=linux&logoColor=00ff41&labelColor=003b13)
-![Nmap](https://img.shields.io/badge/Nmap-fundamentals-0d1117?style=for-the-badge&logo=nmap&logoColor=00ff41&labelColor=003b13)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-fundamentals-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00ff41&labelColor=003b13)
-![Windows](https://img.shields.io/badge/Windows-fundamentals-0d1117?style=for-the-badge&logo=windows&logoColor=00ff41&labelColor=003b13)
-![Git](https://img.shields.io/badge/Git-and_GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=003b13)
+![Wireshark](https://img.shields.io/badge/Wireshark-Basics-0d1117?style=for-the-badge&logo=wireshark&logoColor=00ff41&labelColor=003b13)
+![tcpdump](https://img.shields.io/badge/tcpdump-Basics-0d1117?style=for-the-badge&logo=linux&logoColor=00ff41&labelColor=003b13)
+![Nmap](https://img.shields.io/badge/Nmap-Fundamentals-0d1117?style=for-the-badge&logo=nmap&logoColor=00ff41&labelColor=003b13)
 
 </div>
+
+*Icons represent technologies I've studied or am learning, not professional-level expertise.*
 
 ---
 
@@ -87,11 +84,9 @@ These are tools and technologies I've studied or am currently learning. My exper
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahidpathan20&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahidpathan20&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9)
-
 </div>
 
-*GitHub statistics are generated from activity and public repositories. The language card reflects code detected in repositories, not overall skill level.*
+*GitHub statistics are generated from activity in public repositories and may take time to refresh.*
 
 ---
 
