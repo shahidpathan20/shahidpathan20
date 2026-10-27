@@ -11,9 +11,9 @@
 ### Shahid Pathan (KUROXASTA)
 **Cybersecurity student | Aspiring security professional | Learning in public**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shahidpathan20.github.io-00ff41?style=for-the-badge&labelColor=0d1117)](https://shahidpathan20.github.io)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-KUROXASTA-00ff41?style=for-the-badge&logo=tryhackme&logoColor=00ff41&labelColor=0d1117)](https://tryhackme.com/p/KUROXASTA)
-[![My Learning Journey](https://img.shields.io/badge/My_Learning_Journey-GitHub_Notes-00ff41?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117)](https://github.com/shahidpathan20/KUROXASTA-Cybersecurity-Journey)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-OPEN-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00ff41&labelColor=003b13)](https://shahidpathan20.github.io)
+[![TryHackMe](https://img.shields.io/badge/TRYHACKME-KUROXASTA-0d1117?style=for-the-badge&logo=tryhackme&logoColor=00ff41&labelColor=003b13)](https://tryhackme.com/p/KUROXASTA)
+[![My Learning Journey](https://img.shields.io/badge/LEARNING_JOURNEY-GITHUB_NOTES-0d1117?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=003b13)](https://github.com/shahidpathan20/KUROXASTA-Cybersecurity-Journey)
 
 </div>
 
